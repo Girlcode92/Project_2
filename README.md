@@ -75,7 +75,7 @@ Dataset #1 - Inspections of restaurants and food establishments in Chicago from 
 - We used SQL in PostgreSQL to create the table. 
 - Finally, we commited our changes and closed the session. 
 
-### Topic Chosen
+## Topic Chosen
 
 - Given the timeframe and project requirements, we decided these data sets had the potential to meet the ETL requirements for this project.
 
